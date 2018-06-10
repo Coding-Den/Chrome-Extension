@@ -1,10 +1,8 @@
 ## Not yet published but ready to use
 
+## Preview:
 
-## Procedure
-### step 1- ` write chrome://extensions/ in chrome `
-### step 2-  `click on load unpacked`
-### step 3-  `Select the folder `
+![screenshot 3](https://user-images.githubusercontent.com/33368759/41201267-33919784-6cd2-11e8-9feb-ca473e85cc28.png)
 
 
-### The extension is ready to use
+> create an issue to improve its UI
